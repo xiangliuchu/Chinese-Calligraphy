@@ -1,4 +1,4 @@
-# Chinese-Calligraphy
+# Daliy-Chinese-Calligraphy
 This repository is used to supervise and record the daily practice of  Chinese calligraphy
 
 今日有感而发，遂创此库。人心为物欲所弊，失其灵明，念己忘昔日所热爱之物，且不能持之以恒，顿感痛心，遂创此库，以唤昨日之热忱！
